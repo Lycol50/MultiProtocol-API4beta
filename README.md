@@ -34,10 +34,12 @@ accept-protocol:
 Save the file and restart your server, then done!
 
 
-NOTE : This plugin is modified and make more instruction-friendly and support latest PMMP API (3)
-Original : https://github.com/BajanVlogs/MultiProtocol
+**NOTE : This plugin is modified and make more instruction-friendly and support latest PMMP API (3)**
+
+[Original Plugin by BajanVlogs](https://github.com/BajanVlogs/MultiProtocol)
 
 
 
 2020 by princepines and BajanVlogs
+
 discord: princepines#5041
