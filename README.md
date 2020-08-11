@@ -15,18 +15,19 @@ Here on this file you can put Protocol Versions
 
 it should look like this:
 
----
+```---
 accept-protocol:
 ---
+```
 
 - There you need to add another row below accept-protocol and add protocol number like this:
 
----
+```---
 accept-protocol:
 - 407 <!-- This is a Protocol Number (1.16.0-1.16.10) -->
 - 408 <!-- This is a Protocol Number (1.16.20) -->
 ---
-
+```
 
 Save the file and restart your server, then done!
 
