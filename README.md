@@ -1,5 +1,5 @@
 # MultiProtocol
-MultiProtocol is a plugin where you can have people join on your server (PMMP API 3) with your latest
+MultiProtocol is a plugin where you can have people join on your server (PMMP API 3) with latest
 Minecraft Bedrock
 
 Instructions:
