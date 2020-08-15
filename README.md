@@ -1,9 +1,8 @@
 # MultiProtocol
-MultiProtocol is a plugin where you can have people join on your server (PMMP API 3) with latest
-Minecraft Bedrock
+MultiProtocol is a plugin where you can have people join on your server (PMMP API 3) with Other versions of Minecraft Bedrock
 
 Instructions:
-1. Find the Protocol Version of Latest Minecraft Bedrock:
+1. Find the Protocol Version of your Minecraft Bedrock:
 - Go to Settings>Profile and scroll down until you see the "Protocol Version",
 remember the Protocol Version Number!
 
