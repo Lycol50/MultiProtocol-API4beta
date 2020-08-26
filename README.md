@@ -1,6 +1,6 @@
-# API 3 plugin for MultiProtocol : https://github.com/Lycol50/MultiProtocol
+# This Plugin is for API 4 and API 4 Dev Builds
 
-This Plugin is for API 4 and API 4 Dev Builds
+API 3 plugin for MultiProtocol : https://github.com/Lycol50/MultiProtocol
 
 # MultiProtocol
 MultiProtocol is a plugin where you can have people join on your server (PMMP API 3) with your latest
