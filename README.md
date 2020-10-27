@@ -2,6 +2,8 @@
 
 API 3 plugin for MultiProtocol : https://github.com/Lycol50/MultiProtocol
 
+*UPDATE: I dunno if this is working or not?, because im not using API 4.*
+
 # MultiProtocol
 MultiProtocol is a plugin where you can have people join on your server (PMMP API 4) with your latest
 Minecraft Bedrock
