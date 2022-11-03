@@ -14,12 +14,10 @@ class Main extends PluginBase implements Listener {
 	
    public $acceptProtocol = [];
 
-   public function onEnable() {
+   protected function onEnable() : void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
 		$this->getLogger()->info("MultiProtocol Plugin Enable!");
-	   	$this->getLogger()->info("Created by BajanVlogs, maintained for API 4 including beta by princepines");
-	   	$this->getLogger()->info("This Plugin will be updated every new release of beta builds.");
-	   	$this->getLogger()->info("This plugin can be redistrubuted, modified, etc. based on the License.");
+	   	$this->getLogger()->info("Created by BajanVlogs, maintained for API 4 by princepines");
 		
 		@mkdir($this->getDataFolder());
 		$this->acceptProtocol = (new Config($this->getDataFolder()."protocol.yml", Config::YAML))->get("accept-protocol");
